@@ -183,7 +183,6 @@
   <ItemGroup>
     <Compile Include="CodeAnalyzer2Tests.cs" />
     <Compile Include="CodeAnalyzer_Sample.cs" />
-    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
